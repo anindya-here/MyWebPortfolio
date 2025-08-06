@@ -3589,7 +3589,7 @@ input, select, textarea {
   height: 500px;
   border-radius: 50%; /* Makes it circular */
   object-fit: cover;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   display: block;
 margin-left: auto;
   margin-right: auto;
