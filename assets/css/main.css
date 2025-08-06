@@ -3585,8 +3585,8 @@ input, select, textarea {
 	}
  
          .profile-pic {
-  width: 100px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
   border-radius: 50%; /* Makes it circular */
   object-fit: cover;
   margin-bottom: 2rem;
