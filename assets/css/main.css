@@ -3591,8 +3591,7 @@ input, select, textarea {
   object-fit: cover;
   margin-bottom: 2rem;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0 auto 1rem auto;
 max-width: 100%;
 }
 
